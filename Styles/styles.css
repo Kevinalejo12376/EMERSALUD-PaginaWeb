@@ -838,10 +838,10 @@ header {
 }
 
 .footer-contact {
+    color: #d1d5db;
     display: flex;
     flex-direction: column;
     gap: 0.75rem;
-    text-align: center;
 }
 
 .footer-contact-item {
